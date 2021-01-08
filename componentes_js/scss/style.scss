@@ -1,4 +1,8 @@
 $blue:#94c9da;
+$yellow:#f5d81b;
+$red: #e8290c;
+$green: #5de82e;
+
 @mixin margenes($top, $bottom){
     margin-top: $top;
     margin-bottom: $bottom;
