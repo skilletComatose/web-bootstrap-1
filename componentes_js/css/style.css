@@ -1,0 +1,52 @@
+h3 {
+  text-align: center;
+  margin-top: 10px; }
+
+.jumbotron {
+  background-color: #94c9da;
+  /* margin-top: 55px;*/
+  margin-top: 55px;
+  margin-bottom: 0px;
+  color: black;
+  width: 100%; }
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: ">>"; }
+
+footer {
+  padding: 10px 1opx 10px;
+  background-color: rgba(37, 107, 107, 0.411);
+  margin-top: 20px;
+  margin-bottom: 0px;
+  width: 100%; }
+
+.hotel-option {
+  flex: 1 300px;
+  padding: 2px 8px 10px 5px;
+  margin: 8px;
+  margin-top: 10px; }
+
+.btn-reserva {
+  width: 100%;
+  border-radius: 5px; }
+
+.btn-formu {
+  width: 30%; }
+
+#foo {
+  margin: 0; }
+
+.footer-icon {
+  margin-right: 10px; }
+
+.table-ptable {
+  text-align: center; }
+
+.comp {
+  text-align: center; }
+
+.d-all-cards {
+  margin-top: 50px; }
+
+.col-show {
+  margin-top: 10px; }
